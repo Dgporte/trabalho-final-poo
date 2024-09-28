@@ -1,0 +1,27 @@
+Início
+
+ID Pedido: 4
+Itens do Pedido: [
+
+Produto: Carregadores Solares Portáteis
+Valor: 199.9
+Quantidade: 12
+
+
+Produto: Câmeras de Segurança Alimentadas por Energia Solar
+Valor: 1899.9
+Quantidade: 2
+
+]
+Nome Cliente: diogo
+Valor Total: R$ 6.198,60
+Tipo Pagamento: CARTAO_DE_CREDITO
+Data pedido: 2024-09-19
+
+**
+
+Data Comprovante 19/09/2024 11:01:41
+
+**Fim
+
+

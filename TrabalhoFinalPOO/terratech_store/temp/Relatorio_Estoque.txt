@@ -1,0 +1,91 @@
+***********Início***********
+
+ID Produto: 1
+Nome: Carregadores Solares Portáteis
+Descrição: Utilizam energia solar para carregar smartphones e tablets.
+ESTOQUE: 150
+
+**************************
+
+ID Produto: 2
+Nome: Painéis Solares Domésticos
+Descrição: Pequenos kits de painéis solares para uso residencial.
+ESTOQUE: 75
+
+**************************
+
+ID Produto: 3
+Nome: Câmeras de Segurança Alimentadas por Energia Solar
+Descrição: Sistemas de vigilância que utilizam energia solar.
+ESTOQUE: 60
+
+**************************
+
+ID Produto: 4
+Nome: Power Banks Ecológicos
+Descrição: Baterias externas feitas com materiais sustentáveis.
+ESTOQUE: 200
+
+**************************
+
+ID Produto: 5
+Nome: Carregadores Wireless Sustentáveis
+Descrição: Bases de carregamento sem fio feitas de materiais recicláveis ou biodegradáveis.
+ESTOQUE: 50
+
+**************************
+
+ID Produto: 6
+Nome: Laptops e Tablets Recondicionados
+Descrição: Dispositivos eletrônicos restaurados para seu estado funcional original.
+ESTOQUE: 50
+
+**************************
+
+ID Produto: 7
+Nome: Mouses e Teclados de Bambu ou Madeira Sustentável
+Descrição: Periféricos de computador feitos de materiais naturais.
+ESTOQUE: 120
+
+**************************
+
+ID Produto: 8
+Nome: Lâmpadas Inteligentes de Baixo Consumo
+Descrição: Lâmpadas LED inteligentes que podem ser controladas via smartphone.
+ESTOQUE: 300
+
+**************************
+
+ID Produto: 9
+Nome: Termostatos Inteligentes
+Descrição: Aparelhos que ajustam automaticamente o aquecimento e o resfriamento.
+ESTOQUE: 80
+
+**************************
+
+ID Produto: 10
+Nome: Sensores de Água Inteligentes
+Descrição: Dispositivos que detectam vazamentos de água e ajudam a prevenir desperdícios.
+ESTOQUE: 150
+
+**************************
+
+ID Produto: 11
+Nome: Purificadores de Ar Energicamente Eficientes
+Descrição: Aparelhos que limpam o ar interno com baixo consumo de energia.
+ESTOQUE: 90
+
+**************************
+
+ID Produto: 12
+Nome: Dispositivos de Monitoramento de Consumo de Energia
+Descrição: Aparelhos que otimizam o consumo de energia doméstica.
+ESTOQUE: 100
+
+**************************
+
+Relatório de Estoque 13/09/2024 17:14:59
+
+***********Fim***********
+
+
